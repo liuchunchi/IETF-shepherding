@@ -160,7 +160,9 @@ that each newly created IANA registry specifies its initial contents,
 allocations procedures, and a reasonable name (see RFC 8126).
 
     There is no IANA considerations section.
+    -changes at 25.08.06: The authors explicitly stated that no IANA
+    consideration is needed.    
 
-21. List any new IANA registries that require Designated Expert Review for
+22. List any new IANA registries that require Designated Expert Review for
 future allocations. Are the instructions to the Designated Expert clear?
 Please include suggestions of designated experts, if appropriate.
